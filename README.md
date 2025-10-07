@@ -6,7 +6,7 @@ Arayüz **Tailwind CSS** ve **Shadcn/UI** bileşenleriyle oluşturulmuştur.
 Veriler **JSON Server** aracılığıyla dinamik olarak çekilmektedir.  
 Tasarım **tamamen responsive** olup, masaüstü, tablet ve mobil cihazlarda sorunsuz bir şekilde çalışır.
 
--
+----------------------
 
 This project is a **React + TypeScript** based web application that simulates the process of ordering desserts from a restaurant menu.  
 The interface is built using **Tailwind CSS** and **Shadcn/UI** components.  
@@ -19,7 +19,7 @@ productListAndCard, kullanıcıların bir restorandan tatlı siparişi verebildi
 Shadcn/UI ve JSON Server kullanılarak geliştirilmiş bir web uygulamasıdır. Tamamen responsive yapıdadır; masaüstü,
 tablet ve mobil cihazlarda uyumlu çalışır.
 
--
+----------------------
 
 productListAndCard is a web application where users can simulate ordering desserts from a restaurant menu.  
 It is built using **React**, **TypeScript**, **Tailwind CSS**, **Shadcn/UI**, and **JSON Server**.  
@@ -39,7 +39,7 @@ The project is **fully responsive** and works perfectly on desktop, tablet, and 
 - JSON Server ile mock API
 - Full responsive tasarım
 
--
+------------------
 
 - React + TypeScript architecture  
 - Fast and flexible styling with Tailwind CSS  
